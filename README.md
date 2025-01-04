@@ -1,1 +1,1 @@
-# sudok-game-python
+# sudoko-python
